@@ -8,3 +8,6 @@ Our SMS Spam Detector checks the SMS entered across various datasets and gives a
 This will help our users to differentiate between spam and actual messages thus saving them from fraud.
 
 
+![1](https://user-images.githubusercontent.com/68966594/190921696-f73502aa-97f8-4290-a12e-aeb0a052d36e.JPG)
+![2](https://user-images.githubusercontent.com/68966594/190921790-3b06cfff-1716-4347-840c-b23db39f3d7a.JPG)
+![3](https://user-images.githubusercontent.com/68966594/190921796-096a5ce8-9e85-48bb-a993-30c38eb3bfcd.JPG)
