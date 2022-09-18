@@ -5,9 +5,11 @@ If a company or organization aims to get high profit through sales then getting 
 once web surfers search for that particular website (through SERP’s) the traffic is increased thus preventing the problem of misleading web surfers.
 
 System Diagram
+
 ![image](https://user-images.githubusercontent.com/68966594/190921934-844107d2-1774-4a00-8b90-b7456a717199.png)
 
 App
+
 ![image](https://user-images.githubusercontent.com/68966594/190921983-4c6021b0-bf75-49ec-9a47-29a41de52809.png)
 
 ![image](https://user-images.githubusercontent.com/68966594/190922007-cbfa6040-bd33-4e51-97aa-9c4c237d6289.png)
